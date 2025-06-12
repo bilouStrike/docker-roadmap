@@ -1,7 +1,7 @@
 # Docker Roadmap
 The Ultimate Docker Learning Roadmap: From Beginner to Expert 🐳
 
-[Check Docker roadmap visual timeline version with progress tracker](https://www.onepin.io/progress/Unlock-Docker-Mastery:-Your-Step-by-Step-Roadmap-from-Beginners-to-Experts-682783022ebad85d0ae82519)
+If you want visual version of roadmap with tracking progress, check this: [Check Docker roadmap visual timeline version with progress tracker](https://www.onepin.io/progress/Unlock-Docker-Mastery:-Your-Step-by-Step-Roadmap-from-Beginners-to-Experts-682783022ebad85d0ae82519)
 
 # The Ultimate Docker Learning Roadmap: From Beginner to Expert 🐳
 
